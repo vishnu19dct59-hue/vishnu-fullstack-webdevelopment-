@@ -1,0 +1,7 @@
+{
+  "type": "module",
+  "dependencies": {
+    "y-websocket": "^1.5.10",
+    "yjs": "^13.6.9"
+  }
+}
